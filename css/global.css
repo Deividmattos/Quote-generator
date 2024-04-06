@@ -3,7 +3,7 @@ body {
   padding-top: 2rem;
 }
 
-.container {
+.quote {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.6rem;
   text-align: center;
@@ -15,11 +15,11 @@ body {
   border-radius: 0.4rem;
 }
 
-.container .text {
+.quote .text {
   font-style: italic;
   margin-bottom: 0.4rem;
 }
-.container .author {
+.quote .author {
   font-weight: bold;
   color: #133110;
 }
